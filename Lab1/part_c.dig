@@ -34,46 +34,6 @@
       <pos x="580" y="480"/>
     </visualElement>
     <visualElement>
-      <elementName>FGPFET</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>p0</string>
-        </entry>
-      </elementAttributes>
-      <pos x="700" y="420"/>
-    </visualElement>
-    <visualElement>
-      <elementName>FGPFET</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>p1</string>
-        </entry>
-      </elementAttributes>
-      <pos x="760" y="420"/>
-    </visualElement>
-    <visualElement>
-      <elementName>FGNFET</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>n0</string>
-        </entry>
-      </elementAttributes>
-      <pos x="740" y="520"/>
-    </visualElement>
-    <visualElement>
-      <elementName>FGNFET</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>n1</string>
-        </entry>
-      </elementAttributes>
-      <pos x="740" y="580"/>
-    </visualElement>
-    <visualElement>
       <elementName>Ground</elementName>
       <elementAttributes/>
       <pos x="760" y="700"/>
@@ -94,46 +54,6 @@
       <pos x="1460" y="640"/>
     </visualElement>
     <visualElement>
-      <elementName>FGPFET</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>p4</string>
-        </entry>
-      </elementAttributes>
-      <pos x="1120" y="500"/>
-    </visualElement>
-    <visualElement>
-      <elementName>FGPFET</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>p5</string>
-        </entry>
-      </elementAttributes>
-      <pos x="1120" y="580"/>
-    </visualElement>
-    <visualElement>
-      <elementName>FGNFET</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>n4</string>
-        </entry>
-      </elementAttributes>
-      <pos x="1100" y="680"/>
-    </visualElement>
-    <visualElement>
-      <elementName>FGNFET</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>n5</string>
-        </entry>
-      </elementAttributes>
-      <pos x="1160" y="680"/>
-    </visualElement>
-    <visualElement>
       <elementName>VDD</elementName>
       <elementAttributes/>
       <pos x="1140" y="460"/>
@@ -144,26 +64,6 @@
       <pos x="1140" y="780"/>
     </visualElement>
     <visualElement>
-      <elementName>FGNFET</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>n3</string>
-        </entry>
-      </elementAttributes>
-      <pos x="860" y="740"/>
-    </visualElement>
-    <visualElement>
-      <elementName>FGPFET</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>p3</string>
-        </entry>
-      </elementAttributes>
-      <pos x="860" y="660"/>
-    </visualElement>
-    <visualElement>
       <elementName>Ground</elementName>
       <elementAttributes/>
       <pos x="880" y="820"/>
@@ -172,26 +72,6 @@
       <elementName>VDD</elementName>
       <elementAttributes/>
       <pos x="880" y="620"/>
-    </visualElement>
-    <visualElement>
-      <elementName>FGNFET</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>n2</string>
-        </entry>
-      </elementAttributes>
-      <pos x="740" y="640"/>
-    </visualElement>
-    <visualElement>
-      <elementName>FGPFET</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>p2</string>
-        </entry>
-      </elementAttributes>
-      <pos x="820" y="420"/>
     </visualElement>
     <visualElement>
       <elementName>Testcase</elementName>
@@ -218,26 +98,6 @@
       <pos x="1200" y="420"/>
     </visualElement>
     <visualElement>
-      <elementName>FGNFET</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>n6</string>
-        </entry>
-      </elementAttributes>
-      <pos x="1280" y="660"/>
-    </visualElement>
-    <visualElement>
-      <elementName>FGPFET</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>p6</string>
-        </entry>
-      </elementAttributes>
-      <pos x="1280" y="580"/>
-    </visualElement>
-    <visualElement>
       <elementName>Ground</elementName>
       <elementAttributes/>
       <pos x="1300" y="740"/>
@@ -248,26 +108,6 @@
       <pos x="1300" y="540"/>
     </visualElement>
     <visualElement>
-      <elementName>FGNFET</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>n7</string>
-        </entry>
-      </elementAttributes>
-      <pos x="940" y="520"/>
-    </visualElement>
-    <visualElement>
-      <elementName>FGPFET</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>p7</string>
-        </entry>
-      </elementAttributes>
-      <pos x="940" y="440"/>
-    </visualElement>
-    <visualElement>
       <elementName>Ground</elementName>
       <elementAttributes/>
       <pos x="960" y="600"/>
@@ -276,6 +116,166 @@
       <elementName>VDD</elementName>
       <elementAttributes/>
       <pos x="960" y="400"/>
+    </visualElement>
+    <visualElement>
+      <elementName>PFET</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>p0</string>
+        </entry>
+      </elementAttributes>
+      <pos x="700" y="420"/>
+    </visualElement>
+    <visualElement>
+      <elementName>PFET</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>p1</string>
+        </entry>
+      </elementAttributes>
+      <pos x="760" y="420"/>
+    </visualElement>
+    <visualElement>
+      <elementName>PFET</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>p2</string>
+        </entry>
+      </elementAttributes>
+      <pos x="820" y="420"/>
+    </visualElement>
+    <visualElement>
+      <elementName>PFET</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>p3</string>
+        </entry>
+      </elementAttributes>
+      <pos x="860" y="660"/>
+    </visualElement>
+    <visualElement>
+      <elementName>PFET</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>p4</string>
+        </entry>
+      </elementAttributes>
+      <pos x="940" y="440"/>
+    </visualElement>
+    <visualElement>
+      <elementName>PFET</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>p5</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1120" y="500"/>
+    </visualElement>
+    <visualElement>
+      <elementName>PFET</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>p6</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1120" y="580"/>
+    </visualElement>
+    <visualElement>
+      <elementName>PFET</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>p7</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1280" y="580"/>
+    </visualElement>
+    <visualElement>
+      <elementName>NFET</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>n0</string>
+        </entry>
+      </elementAttributes>
+      <pos x="740" y="520"/>
+    </visualElement>
+    <visualElement>
+      <elementName>NFET</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>n1</string>
+        </entry>
+      </elementAttributes>
+      <pos x="740" y="580"/>
+    </visualElement>
+    <visualElement>
+      <elementName>NFET</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>n2</string>
+        </entry>
+      </elementAttributes>
+      <pos x="740" y="640"/>
+    </visualElement>
+    <visualElement>
+      <elementName>NFET</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>n3</string>
+        </entry>
+      </elementAttributes>
+      <pos x="860" y="740"/>
+    </visualElement>
+    <visualElement>
+      <elementName>NFET</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>n4</string>
+        </entry>
+      </elementAttributes>
+      <pos x="940" y="520"/>
+    </visualElement>
+    <visualElement>
+      <elementName>NFET</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>n5</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1100" y="680"/>
+    </visualElement>
+    <visualElement>
+      <elementName>NFET</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>n6</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1160" y="680"/>
+    </visualElement>
+    <visualElement>
+      <elementName>NFET</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>n7</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1280" y="660"/>
     </visualElement>
   </visualElements>
   <wires>
