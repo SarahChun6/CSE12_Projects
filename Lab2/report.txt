@@ -1,0 +1,21 @@
+assignment:  Lab 2
+name:        Sarah Chun
+cruzid:      schun38
+
+----------------------------------------
+GRADE BREAKDOWN
+----------------------------------------
+30 / 30 Part-1 completed
+15 / 30 Part-2 completed
+comment: This submission failed 50% of the Digital tests. It received 15.0 out of 30 possible points.
+
+30 / 30 Part-3 completed
+10 / 10 README.txt in the lab2/ directory exists (empty file allowed)
+
+
+--------------------
+TOTAL
+
+points earned:   85
+lab total:       100
+late hours used: 0
