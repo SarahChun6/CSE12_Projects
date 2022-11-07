@@ -16,3 +16,4 @@ This file includes the assembly code of the lab.
 Instructions on how to run any code or simulations:
 This program is intended to be run using the RISC Assembler and Runtime Simulator (RARS). 
 Enter the test case (aka. triangle height in positive integers greater than zero) as a program argument and run using RARS.
+

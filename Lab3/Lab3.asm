@@ -144,7 +144,8 @@
 #		CSE 12, Computer Systems and Assembly Language
 # 		UC Santa Cruz, Fall 2022
 #
-# Description: This program prints out and writes to an output file a hollow right triangle with a border of astrick stars depending on the user's inputted height
+# Description: This program prints out and writes to an output file a hollow right triangle 
+# 		with a border of astrick stars depending on the user's inputted height
 #
 # Notes: This program is intended to be run using RARS
 
