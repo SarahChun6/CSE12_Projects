@@ -57,7 +57,7 @@
 .end_macro
 
 .data
-	filePath: .asciz "data3.csv" 
+	filePath: .asciz "data.csv" 
 	fileBeginPrompt: .asciz "Printing file contents...\n________________________\n"
 	fileEndPrompt: .asciz "________________________\n"
 	msg: .asciz "Size of file data (in bytes): " 
