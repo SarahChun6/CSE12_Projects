@@ -6,23 +6,15 @@ cruzid:      schun38
 GRADE BREAKDOWN
 ----------------------------------------
 30 / 30 assembles without errors
-0 / 30 length_of_file.asm works
-comment: Size of file data does not match. Expected: 118 | Generated: 0
+30 / 30 length_of_file.asm works
+20 / 20 income_from_record.asm works
+10 / 10 totalIncome.asm works
+10 / 10 maxIncome.asm works
 
-0 / 20 income_from_record.asm works
-comment: Since total income and stock name didn't match the expected output, we believe that your 'income from record' is not implemented correctly. Please submit a regrade request if you think otherwise.
-
-0 / 10 totalIncome.asm works
-comment: Total income does not match. Expected: 76146 | Generated: 0
-
-0 / 10 maxIncome.asm works
-comment: Max stock name does not match. Expected: Samsings | Generated:
-
-
-
+-5 for submitting incorrect data.csv file
 --------------------
 TOTAL
 
-points earned:   30
+points earned:   95
 lab total:       100
 late hours used: 40
